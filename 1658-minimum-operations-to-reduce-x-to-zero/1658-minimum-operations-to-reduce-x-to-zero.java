@@ -5,8 +5,7 @@ class Solution {
         for (i = 0; i < nums.length; i++) {
             arrSum += nums[i];
         }
-        if(arrSum<x) return -1;
-        if(arrSum==x) return nums.length;
+        
 
         i = 0;
 
