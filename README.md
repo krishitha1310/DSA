@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/krishitha1310/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/krishitha1310/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha1310/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/krishitha1310/DSA/tree/main/0455-assign-cookies/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -20,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/krishitha1310/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/krishitha1310/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha1310/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -27,4 +30,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha1310/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
