@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/krishitha1310/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/krishitha1310/DSA/tree/main/0455-assign-cookies/) | Easy |
 ## Greedy
@@ -40,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/krishitha1310/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
