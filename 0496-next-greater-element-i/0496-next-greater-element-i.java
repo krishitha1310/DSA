@@ -1,7 +1,6 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
        HashMap<Integer,Integer> hm=new HashMap<>();
-       
        for(int i=0;i<nums2.length;i++){
          int c=0;
         for(int j=i+1;j<nums2.length;j++){
