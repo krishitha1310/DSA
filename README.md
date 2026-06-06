@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/krishitha1310/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/krishitha1310/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/krishitha1310/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/krishitha1310/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/krishitha1310/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/krishitha1310/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/krishitha1310/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/krishitha1310/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/krishitha1310/DSA/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/krishitha1310/DSA/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
