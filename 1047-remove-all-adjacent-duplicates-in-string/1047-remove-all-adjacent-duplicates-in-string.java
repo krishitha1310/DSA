@@ -9,10 +9,10 @@ class Solution {
                 st.push(s.charAt(i));
             }
         }
-        String res="";
-        for(char x:st){
-            res+=x;
+        StringBuilder res = new StringBuilder();
+        for (char x : st) {
+            res.append(x);
         }
-        return res;
+                return res.toString();
     }
 }
