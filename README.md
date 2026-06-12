@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krishitha1310/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/krishitha1310/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3099-harshad-number](https://github.com/krishitha1310/DSA/tree/main/3099-harshad-number/) | Easy |
+| [3894-traffic-signal-color](https://github.com/krishitha1310/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 | [3908-valid-digit-number](https://github.com/krishitha1310/DSA/tree/main/3908-valid-digit-number/) | Easy |
 | [3945-digit-frequency-score](https://github.com/krishitha1310/DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Hash Table
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/krishitha1310/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishitha1310/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [3894-traffic-signal-color](https://github.com/krishitha1310/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/krishitha1310/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
+| [3894-traffic-signal-color](https://github.com/krishitha1310/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
