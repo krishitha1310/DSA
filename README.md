@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krishitha1310/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/krishitha1310/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3099-harshad-number](https://github.com/krishitha1310/DSA/tree/main/3099-harshad-number/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/krishitha1310/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/krishitha1310/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/krishitha1310/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3894-traffic-signal-color](https://github.com/krishitha1310/DSA/tree/main/3894-traffic-signal-color/) | Easy |
