@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/krishitha1310/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/krishitha1310/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/krishitha1310/DSA/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/krishitha1310/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/krishitha1310/DSA/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/krishitha1310/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha1310/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/krishitha1310/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/krishitha1310/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0367-valid-perfect-square](https://github.com/krishitha1310/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
