@@ -22,7 +22,7 @@ class Solution {
          if (c == 0 && nums[nums.length - 1] >nums[0]) {
             return false;
         }
-
+        
         return true;
     }
 }
