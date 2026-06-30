@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/krishitha1310/DSA/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishitha1310/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishitha1310/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0189-rotate-array](https://github.com/krishitha1310/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/krishitha1310/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/krishitha1310/DSA/tree/main/0414-third-maximum-number/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/krishitha1310/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/krishitha1310/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishitha1310/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/krishitha1310/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/krishitha1310/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/krishitha1310/DSA/tree/main/0455-assign-cookies/) | Easy |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/krishitha1310/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/krishitha1310/DSA/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/krishitha1310/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/krishitha1310/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/krishitha1310/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/krishitha1310/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/krishitha1310/DSA/tree/main/0342-power-of-four/) | Easy |
