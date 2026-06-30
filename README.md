@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/krishitha1310/DSA/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishitha1310/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishitha1310/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/krishitha1310/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/krishitha1310/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/krishitha1310/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/krishitha1310/DSA/tree/main/0015-3sum/) | Medium |
+| [0169-majority-element](https://github.com/krishitha1310/DSA/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/krishitha1310/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/krishitha1310/DSA/tree/main/0455-assign-cookies/) | Easy |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishitha1310/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/krishitha1310/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishitha1310/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/krishitha1310/DSA/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/krishitha1310/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/krishitha1310/DSA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -192,11 +195,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/krishitha1310/DSA/tree/main/0169-majority-element/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/krishitha1310/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/krishitha1310/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/krishitha1310/DSA/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/krishitha1310/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
