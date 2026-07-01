@@ -12,7 +12,6 @@ class Solution {
 
         int longest = 0;
 
-        // Check every possible sequence
         for (int num : set) {
 
             // If there is no previous number, this is the start of a sequence
