@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/krishitha1310/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha1310/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/krishitha1310/DSA/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/krishitha1310/DSA/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/krishitha1310/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krishitha1310/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/krishitha1310/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/krishitha1310/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/krishitha1310/DSA/tree/main/0367-valid-perfect-square/) | Easy |
+| [0704-binary-search](https://github.com/krishitha1310/DSA/tree/main/0704-binary-search/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
