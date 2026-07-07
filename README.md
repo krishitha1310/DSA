@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/krishitha1310/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/krishitha1310/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/krishitha1310/DSA/tree/main/0367-valid-perfect-square/) | Easy |
+| [0415-add-strings](https://github.com/krishitha1310/DSA/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/krishitha1310/DSA/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/krishitha1310/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha1310/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/krishitha1310/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/krishitha1310/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/krishitha1310/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0415-add-strings](https://github.com/krishitha1310/DSA/tree/main/0415-add-strings/) | Easy |
 | [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishitha1310/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/krishitha1310/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/krishitha1310/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0415-add-strings](https://github.com/krishitha1310/DSA/tree/main/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/krishitha1310/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishitha1310/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
