@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/krishitha1310/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishitha1310/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/krishitha1310/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/krishitha1310/DSA/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/krishitha1310/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/krishitha1310/DSA/tree/main/0455-assign-cookies/) | Easy |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/krishitha1310/DSA/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/krishitha1310/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/krishitha1310/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/krishitha1310/DSA/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/krishitha1310/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/krishitha1310/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/krishitha1310/DSA/tree/main/0342-power-of-four/) | Easy |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/krishitha1310/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishitha1310/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/krishitha1310/DSA/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/krishitha1310/DSA/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/krishitha1310/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/krishitha1310/DSA/tree/main/0496-next-greater-element-i/) | Easy |
