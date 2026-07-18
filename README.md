@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/krishitha1310/DSA/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/krishitha1310/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/krishitha1310/DSA/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/krishitha1310/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishitha1310/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/krishitha1310/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/krishitha1310/DSA/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krishitha1310/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/krishitha1310/DSA/tree/main/0031-next-permutation/) | Medium |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/krishitha1310/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0402-remove-k-digits](https://github.com/krishitha1310/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/krishitha1310/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/krishitha1310/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
