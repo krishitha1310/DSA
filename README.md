@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/krishitha1310/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/krishitha1310/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/krishitha1310/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sorting
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/krishitha1310/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/krishitha1310/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/krishitha1310/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0402-remove-k-digits](https://github.com/krishitha1310/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0415-add-strings](https://github.com/krishitha1310/DSA/tree/main/0415-add-strings/) | Easy |
 | [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishitha1310/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishitha1310/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/krishitha1310/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/krishitha1310/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/krishitha1310/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/krishitha1310/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/krishitha1310/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/krishitha1310/DSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -213,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/krishitha1310/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/krishitha1310/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/krishitha1310/DSA/tree/main/0739-daily-temperatures/) | Medium |
 ## Simulation
