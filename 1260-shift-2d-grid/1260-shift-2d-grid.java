@@ -34,14 +34,13 @@ class Solution {
        }
         List<List<Integer>> list=new ArrayList<>();
         x=0;
-        int len=0;
+       
         while(x<arr.length){
             List<Integer> lis=new ArrayList<>();
             l=0;
             while(l<grid[0].length){
                 lis.add(arr[x++]);
                 l++;
-               
                 if(x==arr.length)break;
             } 
             list.add(lis);
