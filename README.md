@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/krishitha1310/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/krishitha1310/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/krishitha1310/DSA/tree/main/0050-powx-n/) | Medium |
+| [0067-add-binary](https://github.com/krishitha1310/DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/krishitha1310/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishitha1310/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/krishitha1310/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/krishitha1310/DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/krishitha1310/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/krishitha1310/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0067-add-binary](https://github.com/krishitha1310/DSA/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/krishitha1310/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/krishitha1310/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/krishitha1310/DSA/tree/main/0344-reverse-string/) | Easy |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/krishitha1310/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/krishitha1310/DSA/tree/main/0067-add-binary/) | Easy |
 | [0415-add-strings](https://github.com/krishitha1310/DSA/tree/main/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/krishitha1310/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/krishitha1310/DSA/tree/main/0067-add-binary/) | Easy |
 | [0191-number-of-1-bits](https://github.com/krishitha1310/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0342-power-of-four](https://github.com/krishitha1310/DSA/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krishitha1310/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
