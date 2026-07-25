@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1710-maximum-units-on-a-truck](https://github.com/krishitha1310/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/krishitha1310/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishitha1310/DSA/tree/main/3024-type-of-triangle/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/krishitha1310/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3024-type-of-triangle](https://github.com/krishitha1310/DSA/tree/main/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/krishitha1310/DSA/tree/main/3099-harshad-number/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishitha1310/DSA/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/krishitha1310/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/krishitha1310/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/krishitha1310/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/krishitha1310/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
