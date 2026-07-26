@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishitha1310/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/krishitha1310/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/krishitha1310/DSA/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/krishitha1310/DSA/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/krishitha1310/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/krishitha1310/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/krishitha1310/DSA/tree/main/0342-power-of-four/) | Easy |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/krishitha1310/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/krishitha1310/DSA/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/krishitha1310/DSA/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/krishitha1310/DSA/tree/main/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/krishitha1310/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
@@ -351,4 +353,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/krishitha1310/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/krishitha1310/DSA/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
