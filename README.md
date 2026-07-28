@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1710-maximum-units-on-a-truck](https://github.com/krishitha1310/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/krishitha1310/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishitha1310/DSA/tree/main/3024-type-of-triangle/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha1310/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/krishitha1310/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishitha1310/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/krishitha1310/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishitha1310/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha1310/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3894-traffic-signal-color](https://github.com/krishitha1310/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -363,4 +365,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishitha1310/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha1310/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
