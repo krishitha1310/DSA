@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1710-maximum-units-on-a-truck](https://github.com/krishitha1310/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishitha1310/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishitha1310/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/krishitha1310/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/krishitha1310/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishitha1310/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3024-type-of-triangle](https://github.com/krishitha1310/DSA/tree/main/3024-type-of-triangle/) | Easy |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/krishitha1310/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/krishitha1310/DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/krishitha1310/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishitha1310/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishitha1310/DSA/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/krishitha1310/DSA/tree/main/3894-traffic-signal-color/) | Easy |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/krishitha1310/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/krishitha1310/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
