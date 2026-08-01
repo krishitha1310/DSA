@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/krishitha1310/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/krishitha1310/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/krishitha1310/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0649-dota2-senate](https://github.com/krishitha1310/DSA/tree/main/0649-dota2-senate/) | Medium |
 | [0860-lemonade-change](https://github.com/krishitha1310/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishitha1310/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/krishitha1310/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/krishitha1310/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/krishitha1310/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0415-add-strings](https://github.com/krishitha1310/DSA/tree/main/0415-add-strings/) | Easy |
+| [0649-dota2-senate](https://github.com/krishitha1310/DSA/tree/main/0649-dota2-senate/) | Medium |
 | [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishitha1310/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishitha1310/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/krishitha1310/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0649-dota2-senate](https://github.com/krishitha1310/DSA/tree/main/0649-dota2-senate/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krishitha1310/DSA/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/krishitha1310/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Bit Manipulation
