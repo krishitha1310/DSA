@@ -1,16 +1,15 @@
 class Solution {
     public int hammingWeight(int n) {
-        String s="";
-        int r=0,c=0;
-        while(n!=1){
-            r=n%2;
-            if(r==1){
+
+        int c = 0;
+        while (n != 1) {
+
+            if (n % 2 == 1) {
                 c++;
             }
-            n/=2;
-            s+=r;
+            n /= 2;
         }
-       
-        return c+1;
+
+        return c + 1;
     }
 }
