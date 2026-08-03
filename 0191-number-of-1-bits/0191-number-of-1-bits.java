@@ -1,19 +1,16 @@
 class Solution {
     public int hammingWeight(int n) {
         String s="";
-        int r=0;
+        int r=0,c=0;
         while(n!=1){
             r=n%2;
+            if(r==1){
+                c++;
+            }
             n/=2;
             s+=r;
         }
-        s+="1";
-        int c=0;
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)=='1'){
-                c++;
-            }
-        }
-        return c;
+       
+        return c+1;
     }
 }
