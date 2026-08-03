@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/krishitha1310/DSA/tree/main/0067-add-binary/) | Easy |
+| [0190-reverse-bits](https://github.com/krishitha1310/DSA/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/krishitha1310/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0342-power-of-four](https://github.com/krishitha1310/DSA/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krishitha1310/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/krishitha1310/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/krishitha1310/DSA/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/krishitha1310/DSA/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/krishitha1310/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
