@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/krishitha1310/DSA/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/krishitha1310/DSA/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/krishitha1310/DSA/tree/main/0191-number-of-1-bits/) | Easy |
+| [0338-counting-bits](https://github.com/krishitha1310/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/krishitha1310/DSA/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krishitha1310/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishitha1310/DSA/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/krishitha1310/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/krishitha1310/DSA/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishitha1310/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0338-counting-bits](https://github.com/krishitha1310/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/krishitha1310/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/krishitha1310/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/krishitha1310/DSA/tree/main/0509-fibonacci-number/) | Easy |
