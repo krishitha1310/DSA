@@ -13,7 +13,7 @@ class Solution {
        }
        List<Integer> list=new LinkedList<>();
        for(int i=min+1;i<max;i++){
-        if(hm.containsValue(i)){
+        if(hm.containsKey(i)){
             continue;
         }
         else{
