@@ -16,40 +16,32 @@
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
+        q.offer(root.left);
+        q.offer(root.right);
         while (!q.isEmpty()) {
-            int size = q.size(), x = 0;
-            int[] arr = new int[size * 2];
-
+            int size = q.size();
             for (int i = 0; i < size; i++) {
-                TreeNode temp = q.poll();
-                if (temp.left != null) {
-                    q.offer(temp.left);
+                TreeNode left = q.poll();
+                TreeNode right=q.poll();
+                if (left == null && right == null) {
+                    continue;
                 }
-                if (temp.right != null) {
-                    q.offer(temp.right);
-                }
-
-                if (temp.left == null) {
-                    arr[x++] = -101;
-                } else {
-                    arr[x++] = temp.left.val;
-                }
-                if (temp.right == null) {
-                    arr[x++] = -101;
-                } else {
-                    arr[x++] = temp.right.val;
-                }
-            }
-
-            int j = 0, k = arr.length - 1;
-            while (j < k) {
-                if (arr[j] != arr[k]) {
+                if (left == null || right == null) {
                     return false;
                 }
-                j++;
-                k--;
+                if (left.val != right.val) {
+                    return false;
+                }
+
+                q.offer(left.left);
+
+                q.offer(right.right);
+
+                q.offer(left.right);
+
+                q.offer(right.left);
             }
+
         }
         return true;
     }
