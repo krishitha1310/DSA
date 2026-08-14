@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-finding-3-digit-even-numbers](https://github.com/krishitha1310/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishitha1310/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishitha1310/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishitha1310/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/krishitha1310/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3731-find-missing-elements](https://github.com/krishitha1310/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/krishitha1310/DSA/tree/main/3945-digit-frequency-score/) | Easy |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/krishitha1310/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishitha1310/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishitha1310/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishitha1310/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha1310/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3894-traffic-signal-color](https://github.com/krishitha1310/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 ## Linked List
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishitha1310/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/krishitha1310/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishitha1310/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishitha1310/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
