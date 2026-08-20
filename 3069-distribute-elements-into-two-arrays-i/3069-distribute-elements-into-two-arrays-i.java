@@ -12,14 +12,10 @@ class Solution {
                     arr2[i2++]=nums[i];
                 }
         }
-        int[] res=new int[nums.length];
-        int x=0;
-        for(int i=0;i<i1;i++){
-            res[x++]=arr1[i];
-        }
+        
         for(int i=0;i<i2;i++){
-            res[x++]=arr2[i];
+           arr1[i1++]=arr2[i];
         }
-        return res;
+        return arr1;
     }
 }
