@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishitha1310/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/krishitha1310/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/krishitha1310/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/krishitha1310/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/krishitha1310/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/krishitha1310/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/krishitha1310/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
