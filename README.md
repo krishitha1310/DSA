@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3285-find-indices-of-stable-mountains](https://github.com/krishitha1310/DSA/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/krishitha1310/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/krishitha1310/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3668-restore-finishing-order](https://github.com/krishitha1310/DSA/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/krishitha1310/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/krishitha1310/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishitha1310/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishitha1310/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/krishitha1310/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3668-restore-finishing-order](https://github.com/krishitha1310/DSA/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/krishitha1310/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/krishitha1310/DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Binary Search
