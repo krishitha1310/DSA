@@ -1,6 +1,6 @@
 class Solution {
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
-        int[] arr=new int[grid.length*grid[0].length];
+        int[] arr = new int[grid.length*grid[0].length];
         int x=0;
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
