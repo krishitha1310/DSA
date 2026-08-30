@@ -1,6 +1,6 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        String s="";
+        String s="" ;
         int f=0;
         long sum=0;
         String num=Integer.toString(n);
