@@ -2,7 +2,7 @@
  * @param {...(null|boolean|number|string|Array|Object)} args
  * @return {number}
  */
-var argumentsLength = function(...args) {
+var argumentsLength = function (...args) {
     let len=0;
     for(arg in args){
         len++;
