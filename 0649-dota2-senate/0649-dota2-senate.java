@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.* ;
 class Solution {
     public String predictPartyVictory(String senate) {
         Queue<Integer> rad=new LinkedList<>();
