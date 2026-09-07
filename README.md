@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/krishitha1310/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/krishitha1310/DSA/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/krishitha1310/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/krishitha1310/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/krishitha1310/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/krishitha1310/DSA/tree/main/0455-assign-cookies/) | Easy |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/krishitha1310/DSA/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/krishitha1310/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishitha1310/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/krishitha1310/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/krishitha1310/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/krishitha1310/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/krishitha1310/DSA/tree/main/0771-jewels-and-stones/) | Easy |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/krishitha1310/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/krishitha1310/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/krishitha1310/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0389-find-the-difference](https://github.com/krishitha1310/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/krishitha1310/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0415-add-strings](https://github.com/krishitha1310/DSA/tree/main/0415-add-strings/) | Easy |
 | [0649-dota2-senate](https://github.com/krishitha1310/DSA/tree/main/0649-dota2-senate/) | Medium |
@@ -347,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/krishitha1310/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/krishitha1310/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/krishitha1310/DSA/tree/main/0342-power-of-four/) | Easy |
+| [0389-find-the-difference](https://github.com/krishitha1310/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krishitha1310/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/krishitha1310/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishitha1310/DSA/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
