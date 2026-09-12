@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krishitha1310/DSA/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/krishitha1310/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishitha1310/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1929-concatenation-of-array](https://github.com/krishitha1310/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishitha1310/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/krishitha1310/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/krishitha1310/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/krishitha1310/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1518-water-bottles](https://github.com/krishitha1310/DSA/tree/main/1518-water-bottles/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krishitha1310/DSA/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1929-concatenation-of-array](https://github.com/krishitha1310/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/krishitha1310/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishitha1310/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishitha1310/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
