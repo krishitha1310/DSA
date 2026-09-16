@@ -1,5 +1,5 @@
 class Solution {
-    public boolean lemonadeChange(int[] bills) {
+    public boolean lemonadeChange (int[] bills) {
 
         if (bills[0] != 5)
             return false;
