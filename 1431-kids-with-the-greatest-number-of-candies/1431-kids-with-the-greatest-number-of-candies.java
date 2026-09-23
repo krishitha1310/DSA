@@ -5,15 +5,15 @@ class Solution {
         for(int i=0;i<candies.length;i++){
             max=Math.max(max,candies[i]);
         }
-        List list=new ArrayList<>();
+        List arr=new ArrayList<>();
         for(int i=0;i<candies.length;i++){
             if(candies[i]+extraCandies>=max){
-                list.add(true);
+                arr.add(true);
             }
             else{
-                list.add(false);
+                arr.add(false);
             }
         }
-        return list;
+        return arr;
     }
 }
