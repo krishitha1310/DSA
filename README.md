@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/krishitha1310/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krishitha1310/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/krishitha1310/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/krishitha1310/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishitha1310/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/krishitha1310/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishitha1310/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
