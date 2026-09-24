@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2073-time-needed-to-buy-tickets](https://github.com/krishitha1310/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/krishitha1310/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishitha1310/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2418-sort-the-people](https://github.com/krishitha1310/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishitha1310/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishitha1310/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishitha1310/DSA/tree/main/3024-type-of-triangle/) | Easy |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1710-maximum-units-on-a-truck](https://github.com/krishitha1310/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/krishitha1310/DSA/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/krishitha1310/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2418-sort-the-people](https://github.com/krishitha1310/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishitha1310/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishitha1310/DSA/tree/main/3024-type-of-triangle/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha1310/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishitha1310/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/krishitha1310/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/krishitha1310/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2418-sort-the-people](https://github.com/krishitha1310/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishitha1310/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishitha1310/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishitha1310/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1796-second-largest-digit-in-a-string](https://github.com/krishitha1310/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/krishitha1310/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishitha1310/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2418-sort-the-people](https://github.com/krishitha1310/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishitha1310/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishitha1310/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/krishitha1310/DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
