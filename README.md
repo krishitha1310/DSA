@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krishitha1310/DSA/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/krishitha1310/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishitha1310/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krishitha1310/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/krishitha1310/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishitha1310/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/krishitha1310/DSA/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/krishitha1310/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishitha1310/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/krishitha1310/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krishitha1310/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/krishitha1310/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2418-sort-the-people](https://github.com/krishitha1310/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishitha1310/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishitha1310/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishitha1310/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/krishitha1310/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krishitha1310/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/krishitha1310/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishitha1310/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2418-sort-the-people](https://github.com/krishitha1310/DSA/tree/main/2418-sort-the-people/) | Easy |
