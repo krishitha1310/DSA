@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2418-sort-the-people](https://github.com/krishitha1310/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishitha1310/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishitha1310/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3110-score-of-a-string](https://github.com/krishitha1310/DSA/tree/main/3110-score-of-a-string/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/krishitha1310/DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha1310/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3894-traffic-signal-color](https://github.com/krishitha1310/DSA/tree/main/3894-traffic-signal-color/) | Easy |
