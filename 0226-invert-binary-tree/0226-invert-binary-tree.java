@@ -24,7 +24,7 @@ class Solution {
        }
         q.offer(root);
         while (!q.isEmpty()) {
-            TreeNode node = q.poll();
+            TreeNode node =  q.poll();
 
             TreeNode temp = node.left;
             node.left = node.right;
