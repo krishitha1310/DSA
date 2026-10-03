@@ -18,7 +18,7 @@ import java.util.* ;
 
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        Queue<TreeNode> q = new LinkedList<>();
+        Queue<TreeNode> q = new LinkedList<> ();
        if(root==null){
         return null;
        }
