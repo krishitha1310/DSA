@@ -4,7 +4,7 @@ class Solution {
         StringBuilder str = new StringBuilder();
         int l=0,r=0;
         int i=0,j=0;
-        Queue<Character> qu=new LinkedList<>();
+        Queue<Character> q=new LinkedList<>();
         while(j<s.length()){
             char ch=s.charAt(j);
              if(ch=='('){
