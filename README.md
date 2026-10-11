@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishitha1310/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishitha1310/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2418-sort-the-people](https://github.com/krishitha1310/DSA/tree/main/2418-sort-the-people/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krishitha1310/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishitha1310/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishitha1310/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishitha1310/DSA/tree/main/3024-type-of-triangle/) | Easy |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/krishitha1310/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krishitha1310/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishitha1310/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishitha1310/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
