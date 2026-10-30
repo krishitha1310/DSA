@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/krishitha1310/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/krishitha1310/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0925-long-pressed-name](https://github.com/krishitha1310/DSA/tree/main/0925-long-pressed-name/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/krishitha1310/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishitha1310/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/krishitha1310/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/krishitha1310/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/krishitha1310/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishitha1310/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0925-long-pressed-name](https://github.com/krishitha1310/DSA/tree/main/0925-long-pressed-name/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/krishitha1310/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishitha1310/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishitha1310/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
