@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3663-find-the-least-frequent-digit](https://github.com/krishitha1310/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3668-restore-finishing-order](https://github.com/krishitha1310/DSA/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/krishitha1310/DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/krishitha1310/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishitha1310/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/krishitha1310/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3110-score-of-a-string](https://github.com/krishitha1310/DSA/tree/main/3110-score-of-a-string/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/krishitha1310/DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha1310/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/krishitha1310/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/krishitha1310/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishitha1310/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishitha1310/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishitha1310/DSA/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/krishitha1310/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/krishitha1310/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/krishitha1310/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Sliding Window
