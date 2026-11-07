@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krishitha1310/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/krishitha1310/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishitha1310/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/krishitha1310/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/krishitha1310/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/krishitha1310/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1260-shift-2d-grid](https://github.com/krishitha1310/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/krishitha1310/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/krishitha1310/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -603,4 +605,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/krishitha1310/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krishitha1310/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krishitha1310/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/krishitha1310/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
