@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishitha1310/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishitha1310/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2418-sort-the-people](https://github.com/krishitha1310/DSA/tree/main/2418-sort-the-people/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/krishitha1310/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishitha1310/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishitha1310/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishitha1310/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/krishitha1310/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/krishitha1310/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishitha1310/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/krishitha1310/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
