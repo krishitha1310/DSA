@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishitha1310/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/krishitha1310/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/krishitha1310/DSA/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/krishitha1310/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishitha1310/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/krishitha1310/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishitha1310/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishitha1310/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishitha1310/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishitha1310/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/krishitha1310/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/krishitha1310/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishitha1310/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/krishitha1310/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/krishitha1310/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
