@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krishitha1310/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/krishitha1310/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krishitha1310/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1844-replace-all-digits-with-characters](https://github.com/krishitha1310/DSA/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/krishitha1310/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishitha1310/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/krishitha1310/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
