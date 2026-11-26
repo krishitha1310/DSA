@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3099-harshad-number](https://github.com/krishitha1310/DSA/tree/main/3099-harshad-number/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishitha1310/DSA/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishitha1310/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/krishitha1310/DSA/tree/main/3360-stone-removal-game/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/krishitha1310/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/krishitha1310/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishitha1310/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishitha1310/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishitha1310/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishitha1310/DSA/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/krishitha1310/DSA/tree/main/3360-stone-removal-game/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/krishitha1310/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/krishitha1310/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/krishitha1310/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
